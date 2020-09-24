@@ -16,10 +16,10 @@ Python Version : 3.7
 
 Packages: Pandas, Numpy, Matplotlib, Sklearn
 
- ![](/images/dog_images.png)
+ ![](/images/fig1.png)
  
- ![](/images/dog_breed.png)
+ ![](/images/fig2.png)
   
-  ## Model Predictions
+  ## Model Performance
   
-  ![](/images/pred_image.png)
+  ![](/images/evaluation.png)
