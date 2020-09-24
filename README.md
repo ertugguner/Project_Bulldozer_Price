@@ -2,7 +2,7 @@
 Predicting the sale price of the bulldozers
 
 # Bulldozer Sale Price Estimator (Regression): Project Overview
-- Create a machine learning model which predicting the sale price of the bulldozers
+- Creating a machine learning model which predicting the sale price of the bulldozers
 - The data I'am using is from Kaggle's dog breed identification competition.
 https://www.kaggle.com/c/bluebook-for-bulldozers/data
 - I completed this project with what I learned from this course:
