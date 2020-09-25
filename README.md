@@ -1,6 +1,3 @@
-# Project_Bulldozer_Price
-Predicting the sale price of the bulldozers
-
 # Bulldozer Sale Price Estimator (Regression): Project Overview
 - Creating a machine learning model which predicting the sale price of the bulldozers.
 - The data I'am using is from Kaggle's Bluebook for Bulldozers competition.
